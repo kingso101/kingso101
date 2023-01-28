@@ -59,8 +59,8 @@
 ---
 
  ## 📊 **Work Statitics**
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingso101&layout=compact&hide=html" alt="kingso101" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingso101&show_icons=true" alt="kingso101" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingso101&layout=compact&hide=html&theme=gruvbox" alt="kingso101" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingso101&show_icons=true&theme=gruvbox" alt="kingso101" /></p>
 
 <br>
 <div align="center">

@@ -2,11 +2,12 @@
 <img src="https://user-images.githubusercontent.com/40211747/212594404-a0a9c6e1-3ad2-4fc6-84ba-16ce7f734168.gif" alt="side Image" align="center" width="auto" height="auto" />
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-flutter_girlz-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flutter_girlz_/)](https://www.instagram.com/flutter_girlz_/)-->
-[![Linkedin Badge](https://img.shields.io/badge/-kingso101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kingsley-okeke-79a28a154/)](https://www.linkedin.com/in/kingsley-okeke-79a28a154/)
 [![Gmail Badge](https://img.shields.io/badge/-kingso101-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okekekingsley101@gmail.com?)](mailto:okekekingsley101@gmail.com?)
+[![Linkedin Badge](https://img.shields.io/badge/-kingso101-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kingsley-okeke-79a28a154/)](https://www.linkedin.com/in/kingsley-okeke-79a28a154/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-kingso101-c14438?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/9931544/kingso101)](https://stackoverflow.com/users/9931544/kingso101)
 <br>
 
-<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="260" height="auto" /><br>
+<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="260" height="auto" />
 
 <h3 align="center">😜B.Sc in Psychology and a Software engineer with experience in building intelligent & scalable applications using Flutter, PHP and NodeJS, etc. 😎I'm a fullstack Mobile & Web app developer. 😍I love applications (Mobile&Web), Distributed IoT & Embedded System, Farmer, open source projects and the challenges associated with them.✍️✍️</h3>
 <br>
@@ -25,6 +26,7 @@
 <a href="mailto:okekekingsley101@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="abuanwar072" height="22" width="22" /></a>
 <a href="https://github.com/kingso101/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 <a href="https://www.instagram.com/okeke_kings101/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
+<a href="https://stackoverflow.com/users/9931544/kingso101" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ucjm7i4g4z7zgcja_hkhlcvw" height="22" width="22" /></a>
 
 <br />
 

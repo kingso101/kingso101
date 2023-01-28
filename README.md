@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-kingso101-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:okekekingsley101@gmail.com?)](mailto:okekekingsley101@gmail.com?)
 <br>
 
-<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="260" height="auto" />
+<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="260" height="auto" /><br>
 
 <h3 align="center">😜B.Sc in Psychology and a Software engineer with experience in building intelligent & scalable applications using Flutter, PHP and NodeJS, etc. 😎I'm a fullstack Mobile & Web app developer. 😍I love applications (Mobile&Web), Distributed IoT & Embedded System, Farmer, open source projects and the challenges associated with them.✍️✍️</h3>
 <br>
